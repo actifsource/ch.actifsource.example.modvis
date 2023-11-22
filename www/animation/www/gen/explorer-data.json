@@ -1,0 +1,23 @@
+[
+    {
+        "label": "SimpleStatemachine",
+        "children": [
+            {
+                "label": "diagram",
+                "extendedLabel": "SimpleStatemachine -> diagram",
+                "id": "guid_7c535901895011eebd0fcd4c7b5a6846",
+                "skId": [1],
+                "diagramType": "diagram"
+            }
+            
+        ]
+    }
+    
+    ,
+    {
+       "label": "Log",
+       "diagramType": "logdiagram"
+    }
+    
+]
+

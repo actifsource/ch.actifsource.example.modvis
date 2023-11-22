@@ -1,0 +1,15 @@
+{	
+	"mapping_1": {
+		"animationStrategie": "implicitdiagramreset",
+		"defaultSt":0,
+		"map":[
+			{"id":[1, 1], "st":1, "guidPath":["guid_a2ff1930895011eebd0fcd4c7b5a6846"]} ,
+			{"id":[1, 2], "st":0, "guidPath":["guid_a887439d895011eebd0fcd4c7b5a6846"]} ,
+			{"id":[1, 3], "st":0, "guidPath":["guid_bf9a18c5895011eebd0fcd4c7b5a6846"]} ,
+			{"id":[1, 4], "st":0, "guidPath":["guid_c505ba8e895011eebd0fcd4c7b5a6846"]} ,
+			{"id":[1, 5], "st":0, "guidPath":["guid_d44aba08895011eebd0fcd4c7b5a6846"]} ,
+			{"id":[1, 6], "st":0, "guidPath":["guid_d531498f895011eebd0fcd4c7b5a6846"]} 
+		]
+	}
+}
+

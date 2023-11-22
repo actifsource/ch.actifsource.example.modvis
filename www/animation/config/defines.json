@@ -1,0 +1,10 @@
+{
+	"config_modulIdLength":0,
+	"config_recordFileSize":1000,
+	"config_recordFilePartSize":100,
+	"config_neverUnbindModul":false,
+	"config_showExceptionDialog":false,
+	"config_showMessageDialog":true,
+	"config_modul":[
+	]   	
+}

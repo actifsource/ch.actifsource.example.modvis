@@ -1,0 +1,145 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="948" height="284"
+	viewBox="0 0 948 284" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+	
+	
+	
+</defs>
+	<g id="guid_a2ff1930895011eebd0fcd4c7b5a6846">	
+		<g transform="translate(228,151) rotate(0)">
+			<!-- DrawRoundRectangle_ContextModel -->
+			<rect x="-71" y="-37"
+				height="73" width="142"
+			      	rx="15" ry="15"
+			        fill="rgb(255, 255, 255)"
+			        stroke="rgb(0, 0, 0)"
+			        stroke-width="1"/>
+			
+			<!-- DrawLine_ContextModel -->
+			<line x1="-70" y1="-14" 
+				x2="71" y2="-14" 
+				style="stroke: rgb(0, 0, 0);"/>
+				
+			<!-- DrawSingleSelector_ContextModel -->
+			<text x="-10" y="-23" 
+			        font-family="Times New Roman" font-size="13" 
+			        fill="rgb(234, 88, 0)">
+			    	<tspan x="-10" dy="0">StateA</tspan>
+			</text>
+			<g transform="translate(-26,-35) rotate(0)">
+			        <use xlink:href="#guid_e7d85447894f11eebd0fcd4c7b5a6846_icon"/>
+			</g>
+			
+			<!-- DrawVerticalMultiSelector_ContextModel -->
+			<text x="-54" y="1" 
+			        font-family="Times New Roman" font-size="13" 
+			        fill="rgb(234, 88, 0)" >
+			    	empty
+			</text>
+			
+		</g>
+	</g>
+	<g id="guid_a887439d895011eebd0fcd4c7b5a6846">	
+		<g transform="translate(522,154) rotate(0)">
+			<!-- DrawRoundRectangle_ContextModel -->
+			<rect x="-73" y="-40"
+				height="79" width="146"
+			      	rx="15" ry="15"
+			        fill="rgb(255, 255, 255)"
+			        stroke="rgb(0, 0, 0)"
+			        stroke-width="1"/>
+			
+			<!-- DrawLine_ContextModel -->
+			<line x1="-72" y1="-17" 
+				x2="73" y2="-17" 
+				style="stroke: rgb(0, 0, 0);"/>
+				
+			<!-- DrawSingleSelector_ContextModel -->
+			<text x="-11" y="-26" 
+			        font-family="Times New Roman" font-size="13" 
+			        fill="rgb(234, 88, 0)">
+			    	<tspan x="-11" dy="0">StateB</tspan>
+			</text>
+			<g transform="translate(-27,-38) rotate(0)">
+			        <use xlink:href="#guid_e7d85447894f11eebd0fcd4c7b5a6846_icon"/>
+			</g>
+			
+			<!-- DrawVerticalMultiSelector_ContextModel -->
+			<text x="-56" y="-2" 
+			        font-family="Times New Roman" font-size="13" 
+			        fill="rgb(234, 88, 0)" >
+			    	empty
+			</text>
+			
+		</g>
+	</g>
+	<g id="guid_bf9a18c5895011eebd0fcd4c7b5a6846">	
+		<g transform="translate(794,154) rotate(0)">
+			<!-- DrawRoundRectangle_ContextModel -->
+			<rect x="-63" y="-40"
+				height="79" width="126"
+			      	rx="15" ry="15"
+			        fill="rgb(255, 255, 255)"
+			        stroke="rgb(0, 0, 0)"
+			        stroke-width="1"/>
+			
+			<!-- DrawLine_ContextModel -->
+			<line x1="-62" y1="-17" 
+				x2="63" y2="-17" 
+				style="stroke: rgb(0, 0, 0);"/>
+				
+			<!-- DrawSingleSelector_ContextModel -->
+			<text x="-11" y="-26" 
+			        font-family="Times New Roman" font-size="13" 
+			        fill="rgb(234, 88, 0)">
+			    	<tspan x="-11" dy="0">StateC</tspan>
+			</text>
+			<g transform="translate(-27,-38) rotate(0)">
+			        <use xlink:href="#guid_e7d85447894f11eebd0fcd4c7b5a6846_icon"/>
+			</g>
+			
+			<!-- DrawVerticalMultiSelector_ContextModel -->
+			<text x="-48" y="-2" 
+			        font-family="Times New Roman" font-size="13" 
+			        fill="rgb(234, 88, 0)" >
+			    	empty
+			</text>
+			
+		</g>
+	</g>
+	<!-- Relations StateC -> StateA -->
+	<g id="guid_d531498f895011eebd0fcd4c7b5a6846">
+	<g stroke="rgb(95, 95, 95)" fill="none">
+	      <path d="M 794 113 L 794 113L 793 69L 516 73L 224 67L 226 113 L 226 113"/>
+	</g>
+	<!-- Relations target figure -->
+	<g stroke="rgb(95, 95, 95)" fill="none">
+		<polyline points="221,108 226,113 231,108 "/>
+	</g>
+	</g>
+	<!-- Relations StateA -> StateB -->
+	<g id="guid_c505ba8e895011eebd0fcd4c7b5a6846">
+	<g stroke="rgb(95, 95, 95)" fill="none">
+	      <path d="M 300 151 L 300 151L 448 153 L 448 153"/>
+	</g>
+	<!-- Relations target figure -->
+	<g stroke="rgb(95, 95, 95)" fill="none">
+		<polyline points="443,158 448,153 443,148 "/>
+	</g>
+	</g>
+	<!-- Relations StateB -> StateC -->
+	<g id="guid_d44aba08895011eebd0fcd4c7b5a6846">
+	<g stroke="rgb(95, 95, 95)" fill="none">
+	      <path d="M 596 154 L 596 154L 730 154 L 730 154"/>
+	</g>
+	<!-- Relations target figure -->
+	<g stroke="rgb(95, 95, 95)" fill="none">
+		<polyline points="725,159 730,154 725,149 "/>
+	</g>
+	</g>
+</svg>
+
+<!-- Actifsource ID=[ce6aa3dc-6055-11e5-8054-39eee81289f5,20630adf-894e-11ee-8893-310f6ab10dd7,7c535901-8950-11ee-bd0f-cd4c7b5a6846,Hash] -->
