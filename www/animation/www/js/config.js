@@ -27,6 +27,7 @@ angular.module('App.Config', [])
     	enableFilePartitioning: false,
     	
     	/* DiagramConfig */
+    	showDiagramTitle: true,
     	enableLiveCRC: false,
         diagramEnableTimeSliderControl: true,
         diagramEnableZoomControl: true,

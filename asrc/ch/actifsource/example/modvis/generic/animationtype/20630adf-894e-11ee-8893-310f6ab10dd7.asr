@@ -999,6 +999,9 @@
               <predicate guid="d4c4907c-bb8e-11e5-84ee-75b11b010997">
                 <object statement-guid="2063ce7b-894e-11ee-8893-310f6ab10dd7" type="literal">false</object>
               </predicate>
+              <predicate guid="bf35df67-31f2-11ef-80be-4ff3e2d800ad">
+                <object statement-guid="8563cd34-9aab-11ef-b7fd-2d5916392121" type="literal">true</object>
+              </predicate>
             </resource>
           </object>
         </predicate>
@@ -1025,6 +1028,9 @@
               </predicate>
               <predicate guid="b8afc54c-e3b9-11e5-97e8-ab506fce7b6c">
                 <object statement-guid="2063ce82-894e-11ee-8893-310f6ab10dd7" type="literal">true</object>
+              </predicate>
+              <predicate guid="860e10b9-31f2-11ef-80be-4ff3e2d800ad">
+                <object statement-guid="8241f365-9aab-11ef-b7fd-2d5916392121" type="literal">true</object>
               </predicate>
             </resource>
           </object>
