@@ -13,6 +13,7 @@ angular.module('App.Config', [])
         configNumber: 1,
         browserMainTitle: 'Actifsource Animation',
     	browserPopupTitle: 'Actifsource Animation Popup',
+    	browserPopupStandalone: false,
         timeEncoding: 'UNIX_UTC_Timestamp_ms',
         browserTabIcon: 'img/actifsource_icon.png',
     	browserEmptyPageIcon : 'img/actifsource_logo.jpg',
